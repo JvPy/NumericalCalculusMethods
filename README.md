@@ -12,8 +12,8 @@ gcc foo.c -o bar -lm
 
 Where:
 
-**gcc** is compiler command (compiler name)
-**foo.c** is a source file name.
-**-o** is an option to specify the output file.
-**bar** is the name of the output file.
-**-lm** is an option to link againt the math library (libm). 
+- **gcc** is compiler command (compiler name)
+- **foo.c** is a source file name.
+- **-o** is an option to specify the output file.
+- **bar** is the name of the output file.
+- **-lm** is an option to link againt the math library (libm). 
